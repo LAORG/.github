@@ -1,12 +1,6 @@
-## Hi there 👋
+# **Lukáš + Andrej Organization**
+Hello, I'm Andrej, co-owner of this organization. Me and @lukaspapcun (Lukáš) are creating repos with out projects in them. Some of them will maybe be public in future, if we going to make some really good projects.
 
-<!--
+**If you like something, please give us a star ;).**
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### **Thanks for stoping by 👋**
